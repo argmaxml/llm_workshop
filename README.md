@@ -1,1 +1,2 @@
-# llm_workshop
+# LLM Workshop Repo
+
