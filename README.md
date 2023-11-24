@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>LLM Workshop for Israeli soldiers</h1>
-      <b>When:</b> December 1st, 10am-1pm<br />
+      <b>When:</b> December 1st, 2023. 10am-1pm<br />
       <b>Where:</b> Argmax Offices, 38 Ben Gurion st. Ramat Gan. 4th Floor, Office 417.
     </td>
   </tr>
