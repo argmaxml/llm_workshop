@@ -1,4 +1,4 @@
-<table border="0">
+<table>
   <tr>
     <td>
       <img src="https://www.argmaxml.com/img/argmax_llm_army.jpg" width="200">
@@ -29,7 +29,7 @@
     <tr>
     <td><h2>Step 3</h2> Apply </td>
     <td>
-      Fill in <a href="https://forms.gle/eSCVXj7sqBH7rvJS6">this form</a><br>
+      Fill in <a href="https://forms.gle/fY53RwpVBMno5o1x9">this form</a><br>
       We'll get back to you by Thursday at 10am (24 hours before the event).
     </td>
     </tr>
