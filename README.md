@@ -33,4 +33,11 @@
       We'll get back to you by Thursday at 10am (24 hours before the event).
     </td>
     </tr>
+    <tr>
+    <td><h2>Workshop</h2> Materials </td>
+    <td>
+      <a href="https://docs.google.com/presentation/d/10XPClHHk5IzgWAHUmaqQGdcTCXhK4Er5kJk4IEMT4a8">Intro deck</a><br>
+      <a href="https://demo.advecml.com">AdVec Demo</a><br>
+    </td>
+    </tr>
 </table>
