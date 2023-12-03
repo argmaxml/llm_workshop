@@ -30,7 +30,8 @@
     <td><h2>Step 3</h2> Apply </td>
     <td>
       Fill in <a href="https://forms.gle/fY53RwpVBMno5o1x9">this form</a><br>
-      We'll get back to you by Thursday at 10am (24 hours before the event).
+      We'll get back to you by Thursday at 10am (24 hours before the event).<br />
+      <small>Or <a href="https://argmaxml.com/index.html#contact">contact us</a></small>
     </td>
     </tr>
     <tr>
@@ -38,6 +39,10 @@
     <td>
       <a href="https://docs.google.com/presentation/d/10XPClHHk5IzgWAHUmaqQGdcTCXhK4Er5kJk4IEMT4a8">Intro deck</a><br>
       <a href="https://demo.advecml.com">AdVec Demo</a><br>
+      <a href="https://platform.openai.com/tokenizer">OpenAI Tokenizer</a><br>
+      <a href="https://github.com/guidance-ai/guidance">Microsoft Guidance</a><br>
+      <a href="https://github.com/outlines-dev/outlines">Outlines</a><br>
+      <a href="https://github.com/1rgs/jsonformer">JSONFormer</a><br>
     </td>
     </tr>
 </table>
