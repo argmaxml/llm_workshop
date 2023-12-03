@@ -21,7 +21,7 @@
       <ol>
         <li>Clone this repo</li>
         <li>Install the <a href="https://github.com/argmaxml/llm_workshop/blob/master/requirements.txt">requirements</a></li>
-        <li>Answer the question in <a href="https://github.com/argmaxml/llm_workshop/blob/master/notebooks/sample_apps.ipynb">this notebook</a></li>
+        <li>Answer the question in <a href="https://github.com/argmaxml/llm_workshop/blob/master/notebooks/0_sample_apps.ipynb">this notebook</a></li>
         <li>Push your changes to your own <u>public</u> github repo.</li>
       </ol>
     </td>
